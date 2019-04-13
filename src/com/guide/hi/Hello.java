@@ -1,6 +1,6 @@
 package com.guide.hi;
 
-import com.submissioncore.hello.Hello2;
+import com.submissionCore.hello.Hello2;
 
 public class Hello {
 
