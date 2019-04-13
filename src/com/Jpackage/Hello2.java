@@ -1,4 +1,4 @@
-package com.jpackage;
+package com.Jpackage;
 
 public class Hello2 {
 }
