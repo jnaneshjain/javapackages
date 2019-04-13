@@ -1,6 +1,6 @@
 package com.guide.hi;
 
-import com.testjpackage.Hello2;
+import com.testJpackage.Hello2;
 
 public class Hello {
 
